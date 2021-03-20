@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">541458035361</string>
+  <string name="package_name">com.Apolonis.SpacePatrol</string>
+  <string name="achievement_monster_slayer">CgkIoeWni-EPEAIQAg</string>
+  <string name="achievement_fireworks">CgkIoeWni-EPEAIQAw</string>
+  <string name="achievement_exterminator">CgkIoeWni-EPEAIQBA</string>
+  <string name="achievement_double_the_trouble">CgkIoeWni-EPEAIQBQ</string>
+  <string name="achievement_the_hulk">CgkIoeWni-EPEAIQBg</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Police de la Galaxie</string>
+    <string name="start_game">Démarrer Le Jeu</string>
+    <string name="continuex">Continue</string>
+    <string name="main_menu">Menu Principal</string>
+    <string name="win">Vous avez gagné!</string>
+    <string name="lose">Vous avez perdu!</string>
+    <string name="highscore">Félicitations! Vous avez obtenu un nouveau HighScore:</string> 
+ <string name="exit">Quitter</string>
+ <string name="classic_ship">Vaisseau Classique</string>
+ <string name="select_ship">Sélectionner Vaisseau</string>
+ <string name="back">Retour</string>
+ <string name="next">Suivant</string>
+ <string name="select_level">Sélectionner Le Niveau</string>
+ <string name="classic_level">Niveau Classique</string>
+ <string name="space">Galaxie</string>
+ <string name="upgrade_ship">Améliorer Le Vaisseau</string>
+ <string name="upgrade_shot_speed">Vitesse du tir</string>
+ 
+<string name="upgrade">Améliorer</string> 
+ <string name="shot_type">Type de Tir</string>
+ 
+<string name="number_shots">Nombre de Tirs</string>
+
+	<string name="not_enough">Pas assez de monnaie.</string>
+	<string name="fiery_green">Feu Vert</string>
+	<string name="double_txt">Double</string>
+	<string name="level">Niveau</string>
+	<string name="max_level">Niveau Max</string>
+	<string name="upgraded">amélioré</string>
+	<string name="max_number">Max Nombre</string>
+	<string name="sign_in">Connecter</string>
+    <string name="sign_out">déconnecter</string>
+    <string name="did_you_enjoy">Aimez-vous Polise de la Galaxie?</string>
+    <string name="rate_us">Encouragez-nous en nous donnant une bonne avis sur Play Store.</string>
+    <string name="lets_go">Allons-y!</string>
+    <string name="maybe_later">Plus tard</string>
+    <string name="achievements">Réussites</string>
+    <string name="extra_heart">Extra Coeur</string>
+</resources>

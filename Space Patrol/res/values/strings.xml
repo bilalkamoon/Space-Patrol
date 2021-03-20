@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+
+    <string name="app_name">Space Patrol</string>
+    <string name="start_game">Start Game</string>
+    <string name="continuex">Continue</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="win">You won!</string>
+    <string name="lose">You lost!</string>
+	<!-- test -->
+	<!-- 
+	 <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+ 	-->
+	<!--  real -->
+	 
+	<string name="banner_ad_unit_id">ca-app-pub-3841738411630014/2050413008</string>
+	
+	<string name="highscore">Congrats! You got a new HighScore:</string>
+	<string name="exit">Exit</string>
+	<string name="classic_ship">Classic Ship</string>
+	<string name="select_ship">Select Ship</string>
+	<string name="back">Back</string>
+	<string name="next">Next</string>
+	<string name="nothing">" "</string>
+	<string name="select_level">Select Level</string>
+	<string name="classic_level">Classical Level</string>
+	<string name="space">Space</string>
+	<string name="upgrade_ship">Upgrade Ship</string>
+	<string name="upgrade_shot_speed">Shot Speed</string>
+	<string name="price_shot_speed">50,000</string>
+	<string name="upgrade">Upgrade</string>
+	<string name="shot_type">Shot Type</string>
+	<string name="shot_type_price">75,000</string>
+	<string name="number_shots">Number of Shots</string>
+	<string name="number_shots_price">100,000</string>
+	<string name="not_enough">Not enough coins.</string>
+	<string name="fiery_green">Fiery Green</string>
+	<string name="double_txt">Double</string>
+	<string name="level">Level</string>
+	<string name="max_level">Max Level</string>
+	<string name="upgraded">Upgraded</string>
+	<string name="max_number">Max Number</string>
+	
+	<string name="sign_in_failed">Failed to sign in. Please check your network connection and try again.</string>
+    <string name="app_misconfigured">The application is incorrectly configured. Check that the package name and signing certificate match the client ID created in Developer Console. Also, if the application is not yet published, check that the account you are trying to sign in with is listed as a tester account. See logs for more information.</string>
+    <string name="license_failed">License check failed.</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="did_you_enjoy">Are you enjoying Space Patrol?</string>
+    <string name="rate_us">Support us by giving us a good raiting on PlayStore.</string>
+    <string name="lets_go">Let\'s Go!</string>
+    <string name="maybe_later">Maybe Later</string>
+    <string name="achievements">Achievements</string>
+    <string name="extra_heart">Extra Heart</string>
+    <string name="pacworld">Pac-World</string>
+    <string name="pacman">Pac-Man</string>
+    <string name="first_price">10,000</string>
+</resources>
